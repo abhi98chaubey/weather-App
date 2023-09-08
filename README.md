@@ -1,6 +1,8 @@
 # weather-App
 we can search city wise temperature or can see own city weather information by giving location permission  
 
+project live link:- weather-app-tracker.netlify.app
+
 
 
 ![image](https://github.com/abhi98chaubey/weather-App/assets/90348147/9dfbe857-cf3d-4f3d-a3e9-bd1b3f0f4019)
